@@ -1,4 +1,4 @@
-cryptography==1.8.1
+cryptography==3.2
 elasticsearch==5.1.0
 elasticsearch-dsl==5.1.0
 pymiproxy==1.0
